@@ -12,7 +12,7 @@ def btn1_clicked():
 def btn2_clicked():
     global click_count
     move_button_randomly()
-    print(click_count)
+
 
 # 按钮移动逻辑
 def move_button_randomly():
